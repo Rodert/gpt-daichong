@@ -1,0 +1,21 @@
+title: AI 订阅指南
+description: ChatGPT Plus 订阅方式、支付前核验与账号安全说明。
+url: ""
+baseurl: ""
+lang: zh-CN
+recommended_name: ChatGPT OpenPlus
+recommended_url: https://chatgptopenplus.com/
+
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
