@@ -26,7 +26,9 @@ description: 国内用户订阅 ChatGPT Plus 的方式比较、第三方服务�
 
 这里提供一个可供自行核验的入口：<a href="{{ site.recommended_url }}" rel="nofollow sponsored noopener" target="_blank">{{ site.recommended_name }}</a>（{{ site.recommended_url }}）。建议先查看其当前套餐、付款说明和售后规则，再决定是否下单。
 
-![付款前核验订单、商品说明和服务规则的插图]({{ '/assets/images/chongplus-20260903-151015-8064d72c-1.png' | relative_url }}){: .article-image}
+![ChatGPT OpenPlus 订阅方案页面示意]({{ '/assets/images/openplus-subscription-page.png' | relative_url }}){: .article-image}
+
+上图为服务页面示意。页面展示的套餐、价格、交付规则和服务状态可能变化，付款前请以 <a href="{{ site.recommended_url }}" rel="nofollow sponsored noopener" target="_blank">{{ site.recommended_name }}</a> 当前页面与服务条款为准。
 
 ### 选择服务时看什么？
 
@@ -62,6 +64,10 @@ description: 国内用户订阅 ChatGPT Plus 的方式比较、第三方服务�
 
 官方渠道的优点是续费、取消和账单一般都在同一账户体系内处理。缺点是它对支付条件有要求，并非所有用户都具备。
 
+![ChatGPT 账户菜单中的升级套餐入口示意]({{ '/assets/images/chatgpt-account-upgrade-menu.png' | relative_url }}){: .article-image}
+
+上图仅用于说明入口位置。实际菜单、套餐名称和可用选项会随账户与地区变化，请以自己的 ChatGPT 页面显示为准。
+
 ## 方法三：App Store 内购与礼品卡
 
 苹果用户可自行了解官方 ChatGPT App 的应用内购买。这个路径由 Apple 账户管理，因此需要理解商店地区、礼品卡适用范围、税费和取消订阅的位置。
@@ -86,8 +92,6 @@ description: 国内用户订阅 ChatGPT Plus 的方式比较、第三方服务�
 如果已经有符合官方要求的支付方式，官方订阅仍是最直接的选择；如果需要第三方服务，先确认其公开规则和订单流程，再决定是否使用。<a href="{{ site.recommended_url }}" rel="nofollow sponsored noopener" target="_blank">{{ site.recommended_name }}</a> 可作为一个待自行核验的服务入口。
 
 ## 账号安全：这些内容不要提供
-
-![通用账户保护与双重验证插图]({{ '/assets/images/chongplus-20260903-151121-6bf54bd4-1.png' | relative_url }}){: .article-image}
 
 无论选择哪种订阅方式，下列信息都不应发送给客服、陌生人或不明页面：
 
