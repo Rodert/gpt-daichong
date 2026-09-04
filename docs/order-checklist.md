@@ -1,6 +1,7 @@
 ---
 title: ChatGPT 订阅下单前核验清单
 description: 用于核验套餐、订单、售后与账户信息边界的付款前后检查表。
+keywords: [ChatGPT 订阅核验, ChatGPT Plus 下单, ChatGPT 充值注意事项]
 ---
 
 # 下单前核验清单：价格、交付与售后

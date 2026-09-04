@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% assign sitemap_pages = site.pages | where_exp: "item", "item.sitemap != false" %}
+{% for sitemap_page in sitemap_pages %}
+  <url>
+    <loc>{{ sitemap_page.url | absolute_url }}</loc>
+{% if sitemap_page.updated %}    <lastmod>{{ sitemap_page.updated | date_to_xmlschema }}</lastmod>
+{% elsif sitemap_page.date %}    <lastmod>{{ sitemap_page.date | date_to_xmlschema }}</lastmod>
+{% endif %}  </url>
+{% endfor %}
+</urlset>

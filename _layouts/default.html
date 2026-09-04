@@ -12,6 +12,9 @@
     <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
     <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
     {% if page.schema_type == 'BlogPosting' %}
     <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
     <meta property="article:modified_time" content="{{ page.updated | default: page.date | date_to_xmlschema }}">
@@ -24,6 +27,10 @@
         "datePublished": "{{ page.date | date_to_xmlschema }}",
         "dateModified": "{{ page.updated | default: page.date | date_to_xmlschema }}",
         "mainEntityOfPage": {"@type": "WebPage", "@id": "{{ page.url | absolute_url }}"},
+        "url": "{{ page.url | absolute_url }}",
+        "inLanguage": "{{ site.lang }}",
+        "keywords": {{ page.keywords | jsonify }},
+        "isPartOf": {"@type": "Blog", "name": "AI 订阅博客", "url": "{{ '/blog/' | absolute_url }}"},
         "author": {"@type": "Organization", "name": {{ site.title | jsonify }}},
         "publisher": {"@type": "Organization", "name": {{ site.title | jsonify }}}
       }

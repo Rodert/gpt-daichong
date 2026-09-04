@@ -1,6 +1,7 @@
 ---
 title: ChatGPT Plus 怎么订阅
 description: 在订阅前比较官方渠道、应用商店与第三方自助服务的判断方法。
+keywords: [ChatGPT Plus 怎么订阅, ChatGPT Plus 开通, ChatGPT 充值方法]
 ---
 
 # ChatGPT Plus 怎么订阅：先做哪几步判断

@@ -1,6 +1,7 @@
 ---
 title: ChatGPT 订阅账号安全清单
 description: 订阅流程中哪些信息敏感，付款前后如何降低账户暴露风险。
+keywords: [ChatGPT 账号安全, ChatGPT 验证码, ChatGPT Session, ChatGPT 订阅]
 ---
 
 # 账号安全清单：哪些信息绝不应交出去

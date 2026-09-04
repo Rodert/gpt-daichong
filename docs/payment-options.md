@@ -1,6 +1,7 @@
 ---
 title: ChatGPT Plus 付款方式怎么选
 description: 从账户掌控、操作成本和支付管理三个维度比较常见订阅方式。
+keywords: [ChatGPT Plus 付款方式, ChatGPT 充值方式, ChatGPT Plus 支付]
 ---
 
 # 付款方式怎么选：成本、流程与账户掌控

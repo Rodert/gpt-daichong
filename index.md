@@ -1,6 +1,7 @@
 ---
 title: 国内 ChatGPT Plus 代充与订阅指南
 description: 国内用户订阅 ChatGPT Plus 的方式比较、第三方服务核验、账号安全和常见问题。
+keywords: [ChatGPT Plus 订阅, ChatGPT 代充, ChatGPT 充值, ChatGPT Plus 开通]
 ---
 
 # 国内 ChatGPT Plus 怎么订阅？支付方式、代充服务与安全核验指南

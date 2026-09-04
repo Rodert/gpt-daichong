@@ -153,7 +153,7 @@ Plus 和 API 是两回事。
 
 尤其是支付方式、订阅、续费这些环节，对于第一次操作的人来说，反而比 ChatGPT 本身复杂。
 
-我最近也专门整理了一个页面，把这块单独拎出来了：[ChatGPT OpenPlus](https://chatgptopenplus.com/)。
+我最近也专门整理了一个页面，把这块单独拎出来了：<a href="https://chatgptopenplus.com/" rel="nofollow sponsored noopener" target="_blank">ChatGPT OpenPlus</a>。
 
 不过第三方订阅、代充或类似服务，都建议先确认清楚**账号归属、支付方式、续费机制、售后规则以及相关风险**，不要因为着急开会员就忽略账号安全。
 
